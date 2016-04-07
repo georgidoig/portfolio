@@ -1,0 +1,55 @@
+---
+layout: default
+title: Home
+weight: 1
+---
+
+<div class="home" >
+<div class="mega">
+  <div class="hero">
+    <div class="hero-image">
+    <div class="hero-left">
+      <img src="images/sketch-kerboodle.png" alt="kerboodle sketch" class="sketch" />
+      <img src="images/kerboodle.png" alt="kerboodle sketch" class="full" />
+    </div>
+    <div class="hero-right">
+      <img src="images/sketch-mymaths.png" alt="kerboodle sketch" class="sketch" />
+      <img src="images/mymaths.png" alt="kerboodle sketch" class="full" />
+    </div>
+  </div>
+  </div>
+</div>
+<div class="content">
+
+
+    {% for post in site.posts limit:1 %}
+    <article class="home-art">
+      <h1 class="perm">Posts</h1>
+    <h4>
+      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}" title="Permanent link to {{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    </h4>
+        <time datetime="{{post.date}}"{{post.date | date: "%-d %b, %Y "}}></time>
+        <span class="post-meta">{{ post.date | date: " %-d %b, %Y" }}</span>
+        {{post.excerpt}}
+        <a class="post-readmore" href="{{ post.url | prepend: site.baseurl }}">Read more</a>
+        <hr>
+    </article>
+    {% endfor %}
+
+    {% for post in site.projects limit:1 %}
+    <article class="home-proj">
+      <h1 class="perm">Projects</h1>
+    <h4>
+      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}" title="Permanent link to {{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    </h4>
+        {{post.excerpt}}
+
+
+    </article>
+    {% endfor %}
+
+
+<!--
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
+
+</div>

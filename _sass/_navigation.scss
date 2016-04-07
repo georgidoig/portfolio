@@ -1,0 +1,53 @@
+.trigger {
+  line-height: $header-height;
+  height: $header-height;
+  margin: 0 auto;
+  .active {
+    border-bottom: 3px solid $green;
+  }
+}
+.fixed-top-nav {
+  overflow: hidden;
+  max-height: 0;
+  position: relative;
+}
+@include breakpoint($mobile) {
+  .fixed-top-nav {
+    vertical-align: middle;
+    list-style: none;
+    white-space: nowrap;
+    text-align: right;
+    overflow: visible;
+    li {
+      display: inline-block;
+      padding: 0 5px;
+      // font-family: $heading-font-family;
+      a {
+        text-decoration: none;
+        font-weight: bold;
+      }
+    }
+  }
+}
+.branding {
+  height: $header-height;
+  line-height: $header-height;
+  font-family: $heading-font-family;
+  .branding-title {
+    display: none;
+  }
+
+  white-space: nowrap;
+  float: left;
+  svg {
+    float: left;
+    height: 50px;
+    margin: 15px 5px 0 5px;
+  }
+  @include breakpoint($mobile) {
+    .branding-title {
+        font-size: 2em;
+        display: block;
+    }
+  }
+}

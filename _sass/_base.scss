@@ -1,0 +1,60 @@
+/* Changing Susy default global settings */
+$susy: ( columns: 12, math: fluid, output: float, gutters: 1/4, gutter-position: inside, );
+* {
+  margin: 0;
+}
+html {
+  position: relative;
+  min-height: 100%;
+}
+header {
+  border-bottom: 3px solid $green;
+}
+// header
+@include breakpoint($mobile) {}
+header {
+  @include span(12);
+  position: static;
+  .branding {
+    @include span(6);
+  }
+  .trigger {
+    @include span(6 at 6);
+  }
+}
+body {
+  height: 100%;
+  // font-family: $font-main;
+  margin: 0 0 250px;
+  /* bottom = footer height */
+  overflow-x: hidden;
+}
+main {
+  @include span(12);
+}
+footer {
+  @include span(12);
+  background-color: $green;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 250px;
+  border-top: 2px solid $lightgrey;
+  color: $white;
+  svg {
+    max-height: 100%;
+  }
+  ul {
+    /*     color: #fff; */
+  }
+  li {
+    display: inline;
+    padding: 5px;
+    font-size: 0.8em;
+    a {
+      color: white;
+      text-decoration: none;
+    }
+  }
+}
