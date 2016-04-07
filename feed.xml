@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Project Responsive</title>
+    <title>Georgi Doig</title>
     <description>Hello, it&#39;s me</description>
-    <link>http://projectresponsive.com/projectresponsive/</link>
-    <atom:link href="http://projectresponsive.com/projectresponsive/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 07 Apr 2016 21:50:46 +0100</pubDate>
-    <lastBuildDate>Thu, 07 Apr 2016 21:50:46 +0100</lastBuildDate>
+    <link>http://projectresponsive.com/portfolio/</link>
+    <atom:link href="http://projectresponsive.com/portfolio/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 07 Apr 2016 22:02:52 +0100</pubDate>
+    <lastBuildDate>Thu, 07 Apr 2016 22:02:52 +0100</lastBuildDate>
     <generator>Jekyll v3.0.3</generator>
     
       <item>
@@ -57,8 +57,8 @@ categories: jekyll update
 
 </description>
         <pubDate>Mon, 18 Jan 2016 00:00:00 +0000</pubDate>
-        <link>http://projectresponsive.com/projectresponsive/blog/why-I-created-a-blog-and-project-website</link>
-        <guid isPermaLink="true">http://projectresponsive.com/projectresponsive/blog/why-I-created-a-blog-and-project-website</guid>
+        <link>http://projectresponsive.com/portfolio/blog/why-I-created-a-blog-and-project-website</link>
+        <guid isPermaLink="true">http://projectresponsive.com/portfolio/blog/why-I-created-a-blog-and-project-website</guid>
         
         <category>duolingo</category>
         
@@ -84,8 +84,8 @@ categories: jekyll update
 &lt;p&gt;I am forth post shamone mutha trucker&lt;/p&gt;
 </description>
         <pubDate>Fri, 08 Jan 2016 08:17:20 +0000</pubDate>
-        <link>http://projectresponsive.com/projectresponsive/blog/i-am-learning</link>
-        <guid isPermaLink="true">http://projectresponsive.com/projectresponsive/blog/i-am-learning</guid>
+        <link>http://projectresponsive.com/portfolio/blog/i-am-learning</link>
+        <guid isPermaLink="true">http://projectresponsive.com/portfolio/blog/i-am-learning</guid>
         
         <category>blogging</category>
         
@@ -107,8 +107,8 @@ categories: jekyll update
 &lt;p&gt;I am third post paragraph la la la wooooooooo&lt;/p&gt;
 </description>
         <pubDate>Thu, 03 Dec 2015 08:17:20 +0000</pubDate>
-        <link>http://projectresponsive.com/projectresponsive/blog/i-am-learning</link>
-        <guid isPermaLink="true">http://projectresponsive.com/projectresponsive/blog/i-am-learning</guid>
+        <link>http://projectresponsive.com/portfolio/blog/i-am-learning</link>
+        <guid isPermaLink="true">http://projectresponsive.com/portfolio/blog/i-am-learning</guid>
         
         <category>blogging</category>
         
@@ -130,8 +130,8 @@ categories: jekyll update
 &lt;p&gt;I am second post paragraph la la la wooooooooo&lt;/p&gt;
 </description>
         <pubDate>Tue, 01 Dec 2015 08:17:20 +0000</pubDate>
-        <link>http://projectresponsive.com/projectresponsive/blog/welcome-to-jekyll</link>
-        <guid isPermaLink="true">http://projectresponsive.com/projectresponsive/blog/welcome-to-jekyll</guid>
+        <link>http://projectresponsive.com/portfolio/blog/welcome-to-jekyll</link>
+        <guid isPermaLink="true">http://projectresponsive.com/portfolio/blog/welcome-to-jekyll</guid>
         
         <category>blogging</category>
         
@@ -151,8 +151,8 @@ categories: jekyll update
         <description>&lt;p&gt;because I need to!&lt;/p&gt;
 </description>
         <pubDate>Tue, 01 Dec 2015 08:17:19 +0000</pubDate>
-        <link>http://projectresponsive.com/projectresponsive/blog/welcome-to-jekyll</link>
-        <guid isPermaLink="true">http://projectresponsive.com/projectresponsive/blog/welcome-to-jekyll</guid>
+        <link>http://projectresponsive.com/portfolio/blog/welcome-to-jekyll</link>
+        <guid isPermaLink="true">http://projectresponsive.com/portfolio/blog/welcome-to-jekyll</guid>
         
         <category>blogging</category>
         
