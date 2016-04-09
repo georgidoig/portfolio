@@ -1,16 +1,59 @@
 @import url(https://fonts.googleapis.com/css?family=Amatic+SC);
-html {
-  background: url(../images/toby.gif) no-repeat center center fixed;
+body {
+  margin: 0;
+  background: #000;
+}
+
+video {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  z-index: -100;
+  transform: translateX(-50%) translateY(-50%);
+  background: url('//demosthenes.info/assets/images/polina.jpg') no-repeat;
   background-size: cover;
+  transition: 1s opacity;
+}
+
+.stopfade {
+  opacity: .5;
+}
+
+#polina {
+  font-family: 'Amatic SC', cursive;
+  font-weight: 100;
+  color: black;
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+  float:left;
+  font-size: 1.2rem;
 }
 
 h1 {
   font-family: 'Amatic SC', cursive;
-  font-size: 3em;
-  margin: .2em .5em;
-  color: $white;
+  font-size: 3rem;
+  text-transform: uppercase;
+  margin-top: 0;
 }
 
-body {
-  height: 100%;
+
+
+@media screen and (max-width: 500px) {
+  div {
+    width: 70%;
+  }
+}
+
+@media screen and (max-device-width: 800px) {
+  html {
+    background: url(//demosthenes.info/assets/images/polina.jpg) #000 no-repeat center center fixed;
+  }
+  #bgvid {
+    display: none;
+  }
 }
