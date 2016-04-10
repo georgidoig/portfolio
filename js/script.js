@@ -1,3 +1,4 @@
-$('.burger').click(function () {
-  $(this).toggleClass('open');
+$('.enter').click(function () {
+  $('.video').toggleClass('closed');
+  $('.about').toggleClass('open'); 
 });
