@@ -16,10 +16,10 @@ header {
   @include span(12);
   position: static;
   .branding {
-    @include span(6);
+    @include span(4);
   }
   .trigger {
-    @include span(6 at 6);
+    @include span(8 at 4);
   }
 }
 body {

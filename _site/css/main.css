@@ -8,7 +8,7 @@
 /*
  * Base styles
  */
-@import url(https://fonts.googleapis.com/css?family=Amatic+SC);
+@import url(https://fonts.googleapis.com/css?family=Patrick+Hand|Maven+Pro|Amatic+SC:400,700);
 body {
   color: #333;
   font-size: 18px;
@@ -163,7 +163,7 @@ p {
   height: 80px;
   margin: 0 auto; }
   .trigger .active {
-    border-bottom: 3px solid #036307; }
+    border-bottom: 3px solid #d62218; }
 
 .fixed-top-nav {
   overflow: hidden;
@@ -209,7 +209,7 @@ html {
   min-height: 100%; }
 
 header {
-  border-bottom: 3px solid #036307; }
+  border-bottom: 3px solid #d62218; }
 
 header {
   -moz-box-sizing: border-box;
@@ -224,7 +224,7 @@ header {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
-    width: 50%;
+    width: 33.33333%;
     float: left;
     padding-left: 0.83333%;
     padding-right: 0.83333%; }
@@ -232,7 +232,7 @@ header {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
-    width: 50%;
+    width: 66.66667%;
     float: left;
     padding-left: 0.83333%;
     padding-right: 0.83333%; }
@@ -260,7 +260,7 @@ footer {
   float: left;
   padding-left: 0.83333%;
   padding-right: 0.83333%;
-  background-color: #036307;
+  background-color: #d62218;
   position: absolute;
   left: 0;
   bottom: 0;
@@ -338,7 +338,7 @@ main {
   float: left;
   padding-left: 0.83333%;
   padding-right: 0.83333%;
-  border-right: 1px solid #036307; }
+  border-right: 1px solid #d62218; }
 
 .post-meta {
   color: white;
@@ -407,14 +407,14 @@ pre {
   background-color: black;
   padding: 10px;
   margin: 5px 40px;
-  border-left: 10px solid #036307; }
+  border-left: 10px solid #d62218; }
   pre code {
     color: white; }
 
 .mega {
   margin-left: -100%;
   margin-right: -100%;
-  border-bottom: 1px solid #036307; }
+  border-bottom: 1px solid #d62218; }
   .mega .hero {
     min-height: 401px;
     background-image: -webkit-linear-gradient(left, #D3D3D3 1px, transparent 1px), -webkit-linear-gradient(#D3D3D3 1px, transparent 0.2em);
@@ -445,7 +445,7 @@ pre {
   .mega {
     margin-left: -100%;
     margin-right: -100%;
-    border-bottom: 1px solid #036307; }
+    border-bottom: 1px solid #d62218; }
     .mega .hero {
       min-height: 401px;
       background-image: -webkit-linear-gradient(left, #D3D3D3 1px, transparent 1px), -webkit-linear-gradient(#D3D3D3 1px, transparent 0.2em);
@@ -581,8 +581,8 @@ pre {
   transition: max-height 0.5s ease-in-out;
   border-width: 0 2px 2px 2px;
   border-style: solid;
-  border-color: #036307;
-  background-color: #036307;
+  border-color: #d62218;
+  background-color: #d62218;
   list-style: none; }
   .burger-check:checked ~ .fixed-top-nav a {
     color: #fff; }
@@ -616,10 +616,6 @@ pre {
   -webkit-mask-image: url("../images/github.svg");
   mask-image: url("../images/github.svg") no-repeat 50% 50%; }
 
-body {
-  margin: 0;
-  background: #000; }
-
 video {
   position: fixed;
   top: 50%;
@@ -638,7 +634,7 @@ video {
   opacity: .5; }
 
 #polina {
-  font-family: 'Amatic SC', cursive;
+  font-family: 'Patrick Hand', cursive;
   font-weight: 100;
   color: black;
   width: 100%;
@@ -653,12 +649,21 @@ h1 {
   text-transform: uppercase;
   margin-top: 0; }
 
+.home {
+  display: none; }
+
+.closed {
+  display: none; }
+
+.open {
+  display: block; }
+
 @media screen and (max-width: 500px) {
   div {
     width: 70%; } }
 @media screen and (max-device-width: 800px) {
   html {
-    background: url(//demosthenes.info/assets/images/polina.jpg) #000 no-repeat center center fixed; }
+    background: url(images/greenfield.jpg) #000 no-repeat center center fixed; }
 
   #bgvid {
     display: none; } }

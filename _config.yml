@@ -15,9 +15,9 @@ tagline: "georgi doig portfolio"
 twitter_username: georgidoig
 github_username:  georgidoig
 collections:
- projects:
+ showreels:
   output: true
-  permalink: /projects/:title
+  permalink: /showreels/:title
 
 # Build settings
 markdown: kramdown

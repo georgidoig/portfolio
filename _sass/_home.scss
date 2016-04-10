@@ -1,8 +1,5 @@
-@import url(https://fonts.googleapis.com/css?family=Amatic+SC);
-body {
-  margin: 0;
-  background: #000;
-}
+@import url(https://fonts.googleapis.com/css?family=Patrick+Hand|Maven+Pro|Amatic+SC:400,700);
+
 
 video {
   position: fixed;
@@ -23,8 +20,12 @@ video {
   opacity: .5;
 }
 
+// font-family: 'Amatic SC', cursive;
+// font-family: 'Maven Pro', sans-serif;
+// font-family: 'Patrick Hand', cursive;
+
 #polina {
-  font-family: 'Amatic SC', cursive;
+  font-family: 'Patrick Hand', cursive;
   font-weight: 100;
   color: black;
   width: 100%;
@@ -41,7 +42,17 @@ h1 {
   margin-top: 0;
 }
 
+.home {
+  display: none;
+}
 
+.closed {
+  display: none;
+}
+
+.open {
+  display: block;
+}
 
 @media screen and (max-width: 500px) {
   div {
@@ -51,7 +62,7 @@ h1 {
 
 @media screen and (max-device-width: 800px) {
   html {
-    background: url(//demosthenes.info/assets/images/polina.jpg) #000 no-repeat center center fixed;
+    background: url(images/greenfield.jpg) #000 no-repeat center center fixed;
   }
   #bgvid {
     display: none;
