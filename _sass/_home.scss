@@ -40,6 +40,16 @@ h1 {
   font-size: 3rem;
   text-transform: uppercase;
   margin-top: 0;
+
+  a:link, a:visited {
+    background-color: white;
+    color: black;
+    padding: 5px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 200px;
+}
 }
 
 .home {
@@ -52,4 +62,10 @@ h1 {
 
 .open {
   display: block;
+}
+
+@media screen and (max-device-width: 500px) {
+   html {
+    background: url(images/greenfield.jpg) #000 no-repeat center center fixed;
+   }
 }
