@@ -66,6 +66,10 @@ main {
     max-width: 100%;
     max-height: 100%;
   }
+
+  p {
+    margin: 0px;
+  }
 }
 @include breakpoint($mobile) {
   .project-list {

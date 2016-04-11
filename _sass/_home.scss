@@ -64,8 +64,9 @@ h1 {
   display: block;
 }
 
+
 @media screen and (max-device-width: 500px) {
-   html {
+   .full {
     background: url('../images/greenfield.jpg') $white no-repeat center center fixed;
    }
 

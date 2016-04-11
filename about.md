@@ -10,11 +10,11 @@ Marzipan macaroon tiramisu candy toffee dessert cupcake wafer fruitcake. Cake ch
 
 Bonbon danish chocolate bonbon jelly beans chupa chups pudding pastry bonbon. Sugar plum sweet roll tootsie roll tiramisu tart tart. Gummies topping fruitcake brownie. Dessert pudding fruitcake icing gingerbread gummies candy chocolate bar dessert.
 
-<div class="icon-insta">
+<!-- <div class="icon-insta">
 </div>
 <div class="icon-github">
 </div>
 <div class="icon-twitter">
 </div>
 <div class="icon-linked">
-</div>
+</div> -->
