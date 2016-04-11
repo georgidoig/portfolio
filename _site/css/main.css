@@ -189,8 +189,6 @@ p {
   font-family: "Cabin", sans-serif;
   white-space: nowrap;
   float: left; }
-  .branding .branding-title {
-    display: none; }
   .branding svg {
     float: left;
     height: 50px;
@@ -239,7 +237,7 @@ header {
 
 body {
   height: 100%;
-  margin: 0 0 250px;
+  margin: 0 0 100px;
   /* bottom = footer height */
   overflow-x: hidden; }
 
@@ -265,7 +263,7 @@ footer {
   left: 0;
   bottom: 0;
   width: 100%;
-  height: 250px;
+  height: 100px;
   border-top: 2px solid #e6e6e6;
   color: #fff; }
   footer svg {
@@ -626,7 +624,7 @@ video {
   height: auto;
   z-index: -100;
   transform: translateX(-50%) translateY(-50%);
-  background: url("//demosthenes.info/assets/images/polina.jpg") no-repeat;
+  background: url("../images/greenfield.jpg") no-repeat;
   background-size: cover;
   transition: 1s opacity; }
 
@@ -668,4 +666,7 @@ h1 {
 
 @media screen and (max-device-width: 500px) {
   html {
-    background: url(images/greenfield.jpg) #000 no-repeat center center fixed; } }
+    background: url("../images/greenfield.jpg") #fff no-repeat center center fixed; }
+
+  #bgvid {
+    display: none; } }
