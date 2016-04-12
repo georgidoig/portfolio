@@ -1,5 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Patrick+Hand|Maven+Pro|Amatic+SC:400,700);
-
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,700,300);
 
 video {
   position: fixed;
@@ -25,7 +25,7 @@ video {
 // font-family: 'Patrick Hand', cursive;
 
 #polina {
-  font-family: 'Patrick Hand', cursive;
+  font-family: 'Oswald', sans-serif;
   font-weight: 100;
   color: black;
   width: 100%;
@@ -36,7 +36,8 @@ video {
 }
 
 h1 {
-  font-family: 'Amatic SC', cursive;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 300;
   font-size: 3rem;
   text-transform: uppercase;
   margin-top: 0;
