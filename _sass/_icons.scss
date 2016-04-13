@@ -1,27 +1,40 @@
 .icon {
-  background-color: $white;
   width: 32px;
   height: 32px;
   display: inline-block;
   margin: 3px;
+  background: $white;
 }
-.icon-insta {
-  @extend .icon;
+.insta-white {
+  background-color: $white;
   -webkit-mask-image: url("../images/insta.svg");
   mask-image: url("../images/insta.svg") no-repeat 50% 50%;
 }
-.icon-twitter {
-  @extend .icon;
+.twitter-white {
+  background-color: $white;
   -webkit-mask-image: url("../images/twitter.svg");
   mask-image: url("../images/twitter.svg") no-repeat 50% 50%;
 }
-.icon-linked {
-  @extend .icon;
+.linked-white {
+  background-color: $white;
   -webkit-mask-image: url("../images/linked.svg");
   mask-image: url("../images/linked.svg") no-repeat 50% 50%;
 }
-.icon-github {
-  @extend .icon;
+.github-white {
+  background-color: $white;
   -webkit-mask-image: url("../images/github.svg");
   mask-image: url("../images/github.svg") no-repeat 50% 50%;
+}
+
+.insta-black {
+  background-color: $lightgrey;
+}
+.twitter-black {
+    background-color: $black;
+}
+.linked-white {
+    background-color: $black;
+}
+.github-white {
+    background-color: $black;
 }
