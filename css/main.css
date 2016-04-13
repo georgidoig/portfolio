@@ -1,7 +1,4 @@
 @charset "UTF-8";
-@import url(https://fonts.googleapis.com/css?family=Permanent+Marker|Passion+One:400,700);
-@import url(https://fonts.googleapis.com/css?family=Lobster|Cabin+Sketch);
-@import url(https://fonts.googleapis.com/css?family=Cabin);
 /*
  * Variables
  */
@@ -9,6 +6,7 @@
  * Base styles
  */
 @import url(https://fonts.googleapis.com/css?family=Patrick+Hand|Maven+Pro|Amatic+SC:400,700);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,700,300);
 body {
   color: #333;
   font-size: 18px;
@@ -594,28 +592,44 @@ pre {
     background-color: #fff; }
     .burger-check:checked ~ .fixed-top-nav a {
       color: #333; } }
-.icon, .icon-insta, .icon-twitter, .icon-linked, .icon-github {
-  background-color: #fff;
+.icon {
   width: 32px;
   height: 32px;
   display: inline-block;
-  margin: 3px; }
+  margin: 3px;
+  background: #fff; }
 
-.icon-insta {
+.insta-white {
+  background-color: #fff;
   -webkit-mask-image: url("../images/insta.svg");
   mask-image: url("../images/insta.svg") no-repeat 50% 50%; }
 
-.icon-twitter {
+.twitter-white {
+  background-color: #fff;
   -webkit-mask-image: url("../images/twitter.svg");
   mask-image: url("../images/twitter.svg") no-repeat 50% 50%; }
 
-.icon-linked {
+.linked-white {
+  background-color: #fff;
   -webkit-mask-image: url("../images/linked.svg");
   mask-image: url("../images/linked.svg") no-repeat 50% 50%; }
 
-.icon-github {
+.github-white {
+  background-color: #fff;
   -webkit-mask-image: url("../images/github.svg");
   mask-image: url("../images/github.svg") no-repeat 50% 50%; }
+
+.insta-black {
+  background-color: #e6e6e6; }
+
+.twitter-black {
+  background-color: #000; }
+
+.linked-white {
+  background-color: #000; }
+
+.github-white {
+  background-color: #000; }
 
 video {
   position: fixed;
@@ -635,7 +649,7 @@ video {
   opacity: .5; }
 
 #polina {
-  font-family: 'Patrick Hand', cursive;
+  font-family: 'Oswald', sans-serif;
   font-weight: 100;
   color: black;
   width: 100%;
@@ -645,7 +659,8 @@ video {
   font-size: 1.2rem; }
 
 h1 {
-  font-family: 'Amatic SC', cursive;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 300;
   font-size: 3rem;
   text-transform: uppercase;
   margin-top: 0; }
