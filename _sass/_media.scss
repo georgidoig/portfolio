@@ -85,8 +85,12 @@ main {
 .contact-social {
   list-style: none;
   padding: 0;
+  width: 20%;
   li {
-    display: inline-block;
+    // display: inline-block;
+  }
+  p {
+
   }
 }
 
@@ -102,4 +106,8 @@ main {
   /* edit: fixes overlap error in IE7/8,
      make sure you have an empty gif
   background-image: url('empty.gif');*/
+}
+
+.contact-list {
+  float:right;
 }
