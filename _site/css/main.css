@@ -614,6 +614,10 @@ main {
   -webkit-mask-image: url("../images/email.svg");
   mask-image: url("../images/email.svg") no-repeat 50% 50%; }
 
+.imdb {
+  -webkit-mask-image: url("../images/imdb.svg");
+  mask-image: url("../images/imdb.svg") no-repeat; }
+
 video {
   position: fixed;
   top: 50%;

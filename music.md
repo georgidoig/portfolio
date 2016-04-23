@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Music
+title: Music, Photography and Commercial
 permalink: /music/
 weight: 5
 ---

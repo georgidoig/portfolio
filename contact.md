@@ -36,4 +36,11 @@ georgi@projectresponsive.com
 </div>
   </a>
 </li>
+Georgi Doig
+<li>
+<a href="mailto:georgi@projectresponsive.com">
+<div class="icon-black imdb"><span class="link-spanner"></span>
+</div>
+  </a>
+</li>
 </ul>

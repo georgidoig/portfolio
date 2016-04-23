@@ -23,7 +23,6 @@ collections:
 markdown: kramdown
 permalink: /blog/:title
 
-
 #gems
 gems:
 - susy
