@@ -402,6 +402,10 @@ main {
 #about-list {
   margin-bottom: 2em; }
 
+.video-show {
+  text-align: center;
+  margin-top: 30px; }
+
 .mega {
   margin-left: -100%;
   margin-right: -100%;

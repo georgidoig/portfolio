@@ -10,7 +10,266 @@ There, I learnt the art of producing, which I put into practice on a number of s
 
 I also developed skills as a production manager and AD, working on films that have entered festivals across the continent. Each film has allowed me to expand my skillsets across the many processes of film production, preparing me for the industry work I have taken on in more recent years.
 
-<div style="width: 3675px;" class="main">
+<div class="main" style="width: 3639px;">
+	<div class="section">
+		<h2 data-stellar-offset-parent="true">
+			<span class="text">Easy.</span>
+
+<div class="constellation e">
+<div class="star star1 medium" data-stellar-ratio="8" style="left: 25px; display: none;"></div>
+<div class="star star2 large" data-stellar-ratio="6.85714285714" style="left: 52px; display: none;"></div>
+<div class="star star3 large" data-stellar-ratio="12" style="left: 80px; display: none;"></div>
+<div class="star star4 medium" data-stellar-ratio="5.33333333333" style="left: 38.6667px; display: none;"></div>
+<div class="star star5 xlarge" data-stellar-ratio="9.33333333333" style="left: 24px; display: none;"></div>
+<div class="star star6 large" data-stellar-ratio="12" style="left: 22px; display: none;"></div>
+<div class="star star7 xlarge" data-stellar-ratio="10.6666666667" style="left: 50px; display: none;"></div>
+<div class="star star8 xlarge" data-stellar-ratio="9.33333333333" style="left: 80px; display: none;"></div>
+<div class="star star9 large" data-stellar-ratio="6.85714285714" style="left: 10.2857px; display: none;"></div>
+<div class="star star10 xlarge" data-stellar-ratio="8.88888888889" style="left: 22px; display: none;"></div>
+<div class="star star11 large" data-stellar-ratio="6.75" style="left: 22px; display: none;"></div>
+<div class="star star12 large" data-stellar-ratio="12" style="left: 51px; display: none;"></div>
+<div class="star star13 medium" data-stellar-ratio="5" style="left: 16px; display: none;"></div>
+<div class="star star14 medium" data-stellar-ratio="4.5" style="left: 50px; display: none;"></div>
+</div>
+
+<div class="constellation a">
+<div class="star star1 large" data-stellar-ratio="12" style="left: -169px; display: none;"></div>
+<div class="star star2 small" data-stellar-ratio="2.28571428571" style="left: -3.57143px; display: none;"></div>
+<div class="star star3 large" data-stellar-ratio="7.2" style="left: -73.2px; display: none;"></div>
+<div class="star star4 small" data-stellar-ratio="2.22222222222" style="left: 17.4444px; display: none;"></div>
+<div class="star star5 medium" data-stellar-ratio="4.8" style="left: -11.8px; display: none;"></div>
+<div class="star star6 medium" data-stellar-ratio="4.57142857143" style="left: 2.85714px; display: none;"></div>
+<div class="star star7 medium" data-stellar-ratio="4.66666666667" style="left: 16.3333px; display: none;"></div>
+<div class="star star8 small" data-stellar-ratio="2.66666666667" style="left: 58.3333px; display: none;"></div>
+<div class="star star9 small" data-stellar-ratio="3" style="left: 63px; display: none;"></div>
+<div class="star star10 medium" data-stellar-ratio="4.66666666667" style="left: 44.3333px; display: none;"></div>
+<div class="star star11 large" data-stellar-ratio="7.5" style="left: 6px; display: none;"></div>
+<div class="star star12 small" data-stellar-ratio="2.4" style="left: 26.6px; display: none;"></div>
+<div class="star star13 large" data-stellar-ratio="7.5" style="left: -33px; display: none;"></div>
+</div>
+
+<div class="constellation s">
+<div class="star star1 small" data-stellar-ratio="2.4" style="left: -101.4px; display: none;"></div>
+<div class="star star2 large" data-stellar-ratio="6.75" style="left: -3px; display: none;"></div>
+<div class="star star3 xlarge" data-stellar-ratio="9.14285714286" style="left: -67.2857px; display: none;"></div>
+<div class="star star4 small" data-stellar-ratio="2.28571428571" style="left: -147.714px; display: none;"></div>
+<div class="star star5 medium" data-stellar-ratio="8" style="left: -91px; display: none;"></div>
+<div class="star star6 xlarge" data-stellar-ratio="16" style="left: -220px; display: none;"></div>
+<div class="star star7 medium" data-stellar-ratio="5" style="left: -20px; display: none;"></div>
+<div class="star star8 small" data-stellar-ratio="2.5" style="left: -149px; display: none;"></div>
+<div class="star star9 xlarge" data-stellar-ratio="8.88888888889" style="left: -28.2222px; display: none;"></div>
+<div class="star star10 xlarge" data-stellar-ratio="16" style="left: -132px; display: none;"></div>
+<div class="star star11 large" data-stellar-ratio="9" style="left: -30px; display: none;"></div>
+<div class="star star12 large" data-stellar-ratio="9" style="left: -55px; display: none;"></div>
+<div class="star star13 small" data-stellar-ratio="2.33333333333" style="left: -149.667px; display: none;"></div>
+<div class="star star14 small" data-stellar-ratio="2.4" style="left: -181.4px; display: none;"></div>
+<div class="star star15 small" data-stellar-ratio="3" style="left: -19px; display: none;"></div>
+</div>
+
+<div class="constellation y">
+<div class="star star1 small" data-stellar-ratio="4" style="left: -38px; display: none;"></div>
+<div class="star star2 large" data-stellar-ratio="6.66666666667" style="left: -64.6667px; display: none;"></div>
+<div class="star star3 large" data-stellar-ratio="7.5" style="left: -65px; display: none;"></div>
+<div class="star star4 large" data-stellar-ratio="9" style="left: -69px; display: none;"></div>
+<div class="star star5 small" data-stellar-ratio="2.25" style="left: -103.5px; display: none;"></div>
+<div class="star star6 xlarge" data-stellar-ratio="8.88888888889" style="left: -33.2222px; display: none;"></div>
+<div class="star star7 small" data-stellar-ratio="3" style="left: -185px; display: none;"></div>
+<div class="star star8 medium" data-stellar-ratio="5.33333333333" style="left: -11.3333px; display: none;"></div>
+<div class="star star9 xlarge" data-stellar-ratio="9.6" style="left: -78.6px; display: none;"></div>
+</div>
+
+<div class="constellation dot">
+<div class="star star1 large" data-stellar-ratio="9" style="left: -113px; display: none;"></div>
+</div>
+		</h2>
+		<div class="text">
+			<h3>Parallax has never been easier.</h3>
+			<p>Add some simple data attributes to your markup, run <code>$.stellar()</code>.<br>
+				That's all you need to get started. Scroll right to see Stellar.js in action.</p>
+		</div>
+	</div>
+	<div class="section">
+		<h2 data-stellar-offset-parent="true">
+			<span class="text">Exact.</span>
+
+<div class="constellation e">
+<div class="star star1 medium" data-stellar-ratio="4.5" style="display: block; left: 26.9141px;"></div>
+<div class="star star2 large" data-stellar-ratio="8" style="display: block; left: 55.8281px;"></div>
+<div class="star star3 xlarge" data-stellar-ratio="9.6" style="display: block; left: 84.7031px;"></div>
+<div class="star star4 large" data-stellar-ratio="9" style="display: block; left: 112.375px;"></div>
+<div class="star star5 medium" data-stellar-ratio="5.33333333333" style="display: block; left: 26.3698px;"></div>
+<div class="star star6 small" data-stellar-ratio="2.5" style="display: block; left: 22.8203px;"></div>
+<div class="star star7 xlarge" data-stellar-ratio="9" style="display: block; left: 54.375px;"></div>
+<div class="star star8 small" data-stellar-ratio="4" style="display: block; left: 81.6406px;"></div>
+<div class="star star9 large" data-stellar-ratio="9" style="display: block; left: 108.375px;"></div>
+<div class="star star10 medium" data-stellar-ratio="4.44444444444" style="display: block; left: 23.8837px;"></div>
+<div class="star star11 small" data-stellar-ratio="2.5" style="display: block; left: 22.8203px;"></div>
+<div class="star star12 small" data-stellar-ratio="4" style="display: block; left: 52.6406px;"></div>
+<div class="star star13 small" data-stellar-ratio="2.28571428571" style="display: block; left: 80.7031px;"></div>
+<div class="star star14 small" data-stellar-ratio="2.33333333333" style="display: block; left: 106.729px;"></div>
+</div>
+
+<div class="constellation x">
+<div class="star star1 medium" data-stellar-ratio="4.57142857143" style="display: block; left: 18.9531px;"></div>
+<div class="star star2 xlarge" data-stellar-ratio="8.88888888889" style="display: block; left: 35.3142px;"></div>
+<div class="star star3 small" data-stellar-ratio="2.33333333333" style="display: block; left: 44.7292px;"></div>
+<div class="star star4 xlarge" data-stellar-ratio="16" style="display: block; left: 68.2031px;"></div>
+<div class="star star5 large" data-stellar-ratio="9" style="display: block; left: 79.375px;"></div>
+<div class="star star6 large" data-stellar-ratio="7.2" style="display: block; left: 95.3906px;"></div>
+<div class="star star7 small" data-stellar-ratio="2.28571428571" style="display: block; left: 105.703px;"></div>
+<div class="star star8 medium" data-stellar-ratio="4.57142857143" style="display: block; left: 13.9531px;"></div>
+<div class="star star9 medium" data-stellar-ratio="5.33333333333" style="display: block; left: 33.3698px;"></div>
+<div class="star star10 large" data-stellar-ratio="7" style="display: block; left: 47.2812px;"></div>
+<div class="star star11 small" data-stellar-ratio="2.25" style="display: block; left: 75.6836px;"></div>
+<div class="star star12 medium" data-stellar-ratio="8" style="display: block; left: 93.8281px;"></div>
+<div class="star star13 xlarge" data-stellar-ratio="9.33333333333" style="display: block; left: 109.557px;"></div>
+</div>
+
+<div class="constellation a">
+<div class="star star1 medium" data-stellar-ratio="8" style="display: block; left: 10.8281px;"></div>
+<div class="star star2 medium" data-stellar-ratio="4.57142857143" style="display: block; left: 18.9531px;"></div>
+<div class="star star3 large" data-stellar-ratio="7.5" style="display: block; left: 29.5547px;"></div>
+<div class="star star4 small" data-stellar-ratio="2.22222222222" style="display: block; left: 37.6684px;"></div>
+<div class="star star5 large" data-stellar-ratio="6.75" style="display: block; left: 52.1445px;"></div>
+<div class="star star6 small" data-stellar-ratio="2.66666666667" style="display: block; left: 60.9115px;"></div>
+<div class="star star7 small" data-stellar-ratio="2.66666666667" style="display: block; left: 75.9115px;"></div>
+<div class="star star8 medium" data-stellar-ratio="6" style="display: block; left: 87.7344px;"></div>
+<div class="star star9 large" data-stellar-ratio="6.66666666667" style="display: block; left: 98.099px;"></div>
+<div class="star star10 medium" data-stellar-ratio="8" style="display: block; left: 106.828px;"></div>
+<div class="star star11 medium" data-stellar-ratio="8" style="display: block; left: 113.828px;"></div>
+<div class="star star12 small" data-stellar-ratio="2.4" style="display: block; left: 49.7656px;"></div>
+<div class="star star13 small" data-stellar-ratio="2.28571428571" style="display: block; left: 71.7031px;"></div>
+</div>
+
+<div class="constellation c">
+<div class="star star1 xlarge" data-stellar-ratio="9" style="display: block; left: 115.375px;"></div>
+<div class="star star2 xlarge" data-stellar-ratio="10" style="display: block; left: 99.9219px;"></div>
+<div class="star star3 xlarge" data-stellar-ratio="9.6" style="display: block; left: 73.7031px;"></div>
+<div class="star star4 medium" data-stellar-ratio="8" style="display: block; left: 46.8281px;"></div>
+<div class="star star5 xlarge" data-stellar-ratio="9.33333333333" style="display: block; left: 27.5573px;"></div>
+<div class="star star6 small" data-stellar-ratio="2.4" style="display: block; left: 12.7656px;"></div>
+<div class="star star7 medium" data-stellar-ratio="4.8" style="display: block; left: 9.07812px;"></div>
+<div class="star star8 small" data-stellar-ratio="2.66666666667" style="display: block; left: 9.91146px;"></div>
+<div class="star star9 xlarge" data-stellar-ratio="8.88888888889" style="display: block; left: 22.3142px;"></div>
+<div class="star star10 medium" data-stellar-ratio="4.66666666667" style="display: block; left: 38.0052px;"></div>
+<div class="star star11 xlarge" data-stellar-ratio="8.88888888889" style="display: block; left: 64.3142px;"></div>
+<div class="star star12 large" data-stellar-ratio="7.5" style="display: block; left: 91.5547px;"></div>
+<div class="star star13 xlarge" data-stellar-ratio="9.6" style="display: block; left: 113.703px;"></div>
+<div class="star star14 xlarge" data-stellar-ratio="9.6" style="display: block; left: 120.703px;"></div>
+</div>
+
+<div class="constellation t">
+<div class="star star1 xlarge" data-stellar-ratio="9.33333333333" style="display: block; left: 11.5573px;"></div>
+<div class="star star2 xlarge" data-stellar-ratio="9.14285714286" style="display: block; left: 35.4531px;"></div>
+<div class="star star3 small" data-stellar-ratio="4" style="display: block; left: 60.6406px;"></div>
+<div class="star star4 small" data-stellar-ratio="2.4" style="display: block; left: 88.7656px;"></div>
+<div class="star star5 large" data-stellar-ratio="7.2" style="display: block; left: 114.391px;"></div>
+<div class="star star6 small" data-stellar-ratio="2.22222222222" style="display: block; left: 58.6684px;"></div>
+<div class="star star7 large" data-stellar-ratio="6.85714285714" style="display: block; left: 62.2031px;"></div>
+<div class="star star8 small" data-stellar-ratio="2.22222222222" style="display: block; left: 58.6684px;"></div>
+<div class="star star9 medium" data-stellar-ratio="4.8" style="display: block; left: 61.0781px;"></div>
+<div class="star star10 large" data-stellar-ratio="9" style="display: block; left: 63.375px;"></div>
+</div>
+
+<div class="constellation dot">
+<div class="star star1 small" data-stellar-ratio="2.22222222222" style="display: block; left: 15.6684px;"></div>
+</div>
+		</h2>
+		<div class="text">
+			<h3>Precisely align elements and backgrounds.</h3>
+			<p>All elements and backgrounds will return to their original position when they meet the edge of the screen—plus or minus your own optional offset.</p>
+		</div>
+	</div>
+	<div class="section">
+		<h2 data-stellar-offset-parent="true">
+			<span class="text">Enjoy.</span>
+
+<div class="constellation e">
+<div class="star star1 xlarge" data-stellar-ratio="12" style="display: none;"></div>
+<div class="star star2 large" data-stellar-ratio="6.85714285714" style="display: none;"></div>
+<div class="star star3 small" data-stellar-ratio="3" style="display: none;"></div>
+<div class="star star4 xlarge" data-stellar-ratio="9.33333333333" style="display: none;"></div>
+<div class="star star5 large" data-stellar-ratio="7.5" style="display: none;"></div>
+<div class="star star6 large" data-stellar-ratio="7" style="display: none;"></div>
+<div class="star star7 medium" data-stellar-ratio="6" style="display: none;"></div>
+<div class="star star8 medium" data-stellar-ratio="5" style="display: none;"></div>
+<div class="star star9 medium" data-stellar-ratio="8" style="display: none;"></div>
+<div class="star star10 large" data-stellar-ratio="6.75" style="display: none;"></div>
+<div class="star star11 large" data-stellar-ratio="6.85714285714" style="display: none;"></div>
+<div class="star star12 large" data-stellar-ratio="8" style="display: none;"></div>
+<div class="star star13 small" data-stellar-ratio="4" style="display: none;"></div>
+<div class="star star14 small" data-stellar-ratio="2.33333333333" style="display: none;"></div>
+</div>
+
+<div class="constellation n">
+<div class="star star1 small" data-stellar-ratio="2.5" style="display: none;"></div>
+<div class="star star2 small" data-stellar-ratio="4" style="display: none;"></div>
+<div class="star star3 xlarge" data-stellar-ratio="8.88888888889" style="display: none;"></div>
+<div class="star star4 small" data-stellar-ratio="2.66666666667" style="display: none;"></div>
+<div class="star star5 large" data-stellar-ratio="7.5" style="display: none;"></div>
+<div class="star star6 medium" data-stellar-ratio="4.66666666667" style="display: none;"></div>
+<div class="star star7 xlarge" data-stellar-ratio="12" style="display: none;"></div>
+<div class="star star8 xlarge" data-stellar-ratio="8.88888888889" style="display: none;"></div>
+<div class="star star9 xlarge" data-stellar-ratio="10.6666666667" style="display: none;"></div>
+<div class="star star10 large" data-stellar-ratio="7.2" style="display: none;"></div>
+<div class="star star11 medium" data-stellar-ratio="5" style="display: none;"></div>
+<div class="star star12 medium" data-stellar-ratio="4.57142857143" style="display: none;"></div>
+<div class="star star13 large" data-stellar-ratio="7.2" style="display: none;"></div>
+<div class="star star14 large" data-stellar-ratio="9" style="display: none;"></div>
+</div>
+
+<div class="constellation j">
+<div class="star star1 medium" data-stellar-ratio="5.33333333333" style="display: none;"></div>
+<div class="star star2 small" data-stellar-ratio="2.25" style="display: none;"></div>
+<div class="star star3 medium" data-stellar-ratio="4.57142857143" style="display: none;"></div>
+<div class="star star4 large" data-stellar-ratio="9" style="display: none;"></div>
+<div class="star star5 xlarge" data-stellar-ratio="9.6" style="display: none;"></div>
+<div class="star star6 small" data-stellar-ratio="2.5" style="display: none;"></div>
+<div class="star star7 xlarge" data-stellar-ratio="10.6666666667" style="display: none;"></div>
+<div class="star star8 xlarge" data-stellar-ratio="9.6" style="display: none;"></div>
+</div>
+
+<div class="constellation o">
+<div class="star star1 medium" data-stellar-ratio="6" style="display: none;"></div>
+<div class="star star2 large" data-stellar-ratio="7" style="display: none;"></div>
+<div class="star star3 large" data-stellar-ratio="6.85714285714" style="display: none;"></div>
+<div class="star star4 xlarge" data-stellar-ratio="9.33333333333" style="display: none;"></div>
+<div class="star star5 medium" data-stellar-ratio="8" style="display: none;"></div>
+<div class="star star6 small" data-stellar-ratio="2.4" style="display: none;"></div>
+<div class="star star7 large" data-stellar-ratio="7" style="display: none;"></div>
+<div class="star star8 large" data-stellar-ratio="6.85714285714" style="display: none;"></div>
+<div class="star star9 large" data-stellar-ratio="6.85714285714" style="display: none;"></div>
+<div class="star star10 small" data-stellar-ratio="2.66666666667" style="display: none;"></div>
+<div class="star star11 small" data-stellar-ratio="2.4" style="display: none;"></div>
+<div class="star star12 xlarge" data-stellar-ratio="10.6666666667" style="display: none;"></div>
+<div class="star star13 large" data-stellar-ratio="9" style="display: none;"></div>
+<div class="star star14 medium" data-stellar-ratio="5.33333333333" style="display: none;"></div>
+</div>
+
+<div class="constellation y">
+<div class="star star1 medium" data-stellar-ratio="4.5" style="display: none;"></div>
+<div class="star star2 large" data-stellar-ratio="6.66666666667" style="display: none;"></div>
+<div class="star star3 large" data-stellar-ratio="7" style="display: none;"></div>
+<div class="star star4 medium" data-stellar-ratio="8" style="display: none;"></div>
+<div class="star star5 small" data-stellar-ratio="2.5" style="display: none;"></div>
+<div class="star star6 medium" data-stellar-ratio="4.5" style="display: none;"></div>
+<div class="star star7 small" data-stellar-ratio="2.28571428571" style="display: none;"></div>
+<div class="star star8 medium" data-stellar-ratio="8" style="display: none;"></div>
+<div class="star star9 small" data-stellar-ratio="4" style="display: none;"></div>
+</div>
+
+<div class="constellation dot">
+<div class="star star1 small" data-stellar-ratio="2.5" style="display: none;"></div>
+</div>
+		</h2>
+		<div class="text">
+			<h3>Try using Stellar.js for yourself today.</h3>
+			<p>There's lots more to love. Plenty of configuration options, <a href="demos/ios.html">iOS support</a>, plus an easy-to-use plugin architecture. <a href="docs">Read the documentation to get started.</a></p>
+		</div>
+	</div>
+</div>
+
+<!-- <div style="width: 3675px;" class="main">
 <div>
 <img src="{{site.baseurl}}/images/film/Crossroads.jpg"/>
 </div>
@@ -19,4 +278,4 @@ I also developed skills as a production manager and AD, working on films that ha
 </div>
 <div>
 <img src="{{site.baseurl}}/images/film/Litterbugg.jpg"/>
-</div>
+</div> -->
