@@ -276,9 +276,6 @@ footer {
       color: white;
       text-decoration: none; }
 
-main {
-  margin-left: 1em; }
-
 .home-proj img {
   border: 0.1em solid black;
   max-width: 100%;
@@ -404,7 +401,8 @@ main {
 
 .video-show {
   text-align: center;
-  margin-top: 30px; }
+  margin-top: 15px;
+  margin-bottom: 15px; }
 
 .mega {
   margin-left: -100%;
