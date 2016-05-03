@@ -4,7 +4,6 @@ title: Contact
 permalink: /contact/
 weight: 6
 ---
-Wafer gingerbread liquorice toffee dragée candy canes chocolate cake. Pudding apple pie ice cream jelly pie pudding. Chocolate cake powder chocolate bar gummi bears ice cream gummies marzipan ice cream. Tootsie roll liquorice cotton candy sugar plum donut pudding biscuit soufflé oat cake.
 
 <ul class="contact-social">
 Instagram - georgi doig
@@ -38,7 +37,7 @@ georgi@projectresponsive.com
 </li>
 Georgi Doig
 <li>
-<a href="mailto:georgi@projectresponsive.com">
+<a href="http://www.imdb.com/name/nm6673898/">
 <div class="icon-black imdb"><span class="link-spanner"></span>
 </div>
   </a>
