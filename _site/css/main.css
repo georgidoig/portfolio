@@ -395,6 +395,13 @@ main {
 .contact-list {
   float: right; }
 
+.about-img {
+  float: right;
+  padding: 0 1em 1em 1em; }
+
+#about-list {
+  margin-bottom: 2em; }
+
 .mega {
   margin-left: -100%;
   margin-right: -100%;
