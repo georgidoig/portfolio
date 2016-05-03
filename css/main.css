@@ -395,6 +395,13 @@ main {
 .contact-list {
   float: right; }
 
+.about-img {
+  float: right;
+  padding: 0 1em 1em 1em; }
+
+#about-list {
+  margin-bottom: 2em; }
+
 .mega {
   margin-left: -100%;
   margin-right: -100%;
@@ -613,6 +620,10 @@ main {
 .email {
   -webkit-mask-image: url("../images/email.svg");
   mask-image: url("../images/email.svg") no-repeat 50% 50%; }
+
+.imdb {
+  -webkit-mask-image: url("../images/imdb.svg");
+  mask-image: url("../images/imdb.svg") no-repeat; }
 
 video {
   position: fixed;

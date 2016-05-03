@@ -1,4 +1,8 @@
 $('.enter').click(function () {
   $('.video').toggleClass('closed');
-  $('.about').toggleClass('open'); 
+  $('.about').toggleClass('open');
 });
+
+$('.main').stellar({
+            horizontalScrolling: true
+        });
